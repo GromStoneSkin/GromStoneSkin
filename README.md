@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GromStoneSkin
 - 👀 I’m interested in programing, AI and machine learning.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning topics about Frontend Development.
 - 💞️ I’m looking to collaborate on nothing for now.
 - 📫 How to reach me ...
 
